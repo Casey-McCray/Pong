@@ -1,0 +1,17 @@
+﻿  compilation header save succeeded; see E:\Ansh\Ball-Game\Engine\FramebufferPS.shh
+  compilation header save succeeded; see E:\Ansh\Ball-Game\Engine\FramebufferVS.shh
+  Ball.cpp
+  DXErr.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Paddle.cpp
+  Generating code
+  574 of 581 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> E:\Ansh\Ball-Game\x64\Release\Engine.exe
